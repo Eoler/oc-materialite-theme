@@ -1,0 +1,10 @@
+# ignore files beginning with .
+\.*
+
+# ignore build/vendor files
+node_modules
+vendor
+
+# except do not ignore
+!.gitignore
+!.bowerrc
