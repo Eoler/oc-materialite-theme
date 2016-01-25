@@ -1,19 +1,19 @@
 {
-  "name": "oc-materialite-theme",
-  "version": "0.9.1",
-  "authors": [
-    "Danilo Cuculic <eoler@castus.me>"
-  ],
-  "description": "Starter template for building Material Design Lite themed OctoberCMS sites.",
-  "private": true,
-  "license": "Apache-2",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "material-design-lite": "1.0.6"
-  }
+    "private": true,
+    "name": "oc-materialite-theme",
+    "version": "0.9.1",
+    "description": "Starter development template for building Material Design Lite themed OctoberCMS sites.",
+    "authors": [
+        "Danilo Cuculic <eoler@castus.me>"
+    ],
+    "license": "Apache-2",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "material-design-lite": "1.0.6"
+    }
 }
