@@ -1,7 +1,7 @@
 {
     "private": true,
     "name": "oc-materialite-theme",
-    "version": "0.9.1",
+    "version": "0.9.2",
     "description": "Starter development template for building Material Design Lite themed OctoberCMS sites.",
     "author": "Danilo Cuculic <eoler@castus.me>",
     "license": "Apache-2",
@@ -10,7 +10,7 @@
     },
     "main": "gulpfile.js",
     "devDependencies": {
-        "bower": "^1.7.2",
+        "bower": "^1.7.7",
         "gulp": "^3.9.0",
         "gulp-autoprefixer": "^3.1.0",
         "gulp-if": "^2.0.0",

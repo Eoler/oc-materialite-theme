@@ -1,3 +1,5 @@
 0.9.1: 
     - Initial MateriaLite theme with Google-hosted frontend resources.
     - based on Material Design Lite 1.0.6
+0.9.2:
+    - Upgraded Material Design Lite to 1.1.0, updated build for new components
